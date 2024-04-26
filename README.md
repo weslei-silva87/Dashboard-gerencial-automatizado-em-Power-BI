@@ -1,5 +1,5 @@
 
-# Dashboard gerencial automatizado em Power BI
+# Dashboard Gerencial Automatizado em Power BI
 
 ![dashbord 04](https://github.com/weslei-silva87/Dashboard-gerencial-automatizado-em-Power-BI/assets/163655532/eb154435-3dff-4257-baeb-d2a093675f2d)
 
