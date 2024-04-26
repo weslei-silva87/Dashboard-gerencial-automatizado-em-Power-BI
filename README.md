@@ -1,5 +1,8 @@
 
-# Dashboard-gerencial-automatizado-em-Power-BI
+# Dashboard gerencial automatizado em Power BI
+
+![dashbord 01](https://github.com/weslei-silva87/Dashboard-gerencial-automatizado-em-Power-BI/assets/163655532/a5eb48bb-d710-4abb-af29-038c676de2e0)
+
 Ao embarcar neste projeto, como analista de dados para área de marketing, minha principal missão foi criar um dashboard no Power BI que proporcionasse à empresa uma visão clara e abrangente dos principais indicadores de desempenho para o mês de março de 2023. 
 Com base nas informações fornecidas, minha abordagem foi focada em três etapas fundamentais: extração e análise de dados, design e implementação do dashboard, e, por fim, apresentação de soluções para conclusão do projeto.
 
